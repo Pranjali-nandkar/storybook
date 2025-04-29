@@ -131,13 +131,10 @@ Please include the following for each component:
 ## Screenshots
 
 ### Pagination Component
-
 ![Pagination](https://raw.githubusercontent.com/Pranjali-nandkar/storybook/master/assets/images/Screenshot1.png)
 
 ### Storybook View
-
 ![Storybook](https://raw.githubusercontent.com/Pranjali-nandkar/storybook/master/assets/images/Screenshot2.png)
 
 ### Component States
-
 ![States](https://raw.githubusercontent.com/Pranjali-nandkar/storybook/master/assets/images/Screenshot3.png)

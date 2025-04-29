@@ -128,4 +128,16 @@ Please include the following for each component:
 - Ensure responsiveness for different screen sizes (mobile, tablet, desktop).
 - Provide clear and concise documentation to support the usage of each component in different contexts.
 
----
+## Screenshots
+
+### Pagination Component
+
+![Pagination](./assets/images/Screenshot1.png)
+
+### Storybook View
+
+![Storybook](./assets/images/Screenshot2.png)
+
+### Component States
+
+![States](./assets/images/Screenshot3.png)

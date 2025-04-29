@@ -132,12 +132,12 @@ Please include the following for each component:
 
 ### Pagination Component
 
-![Pagination](./assets/images/Screenshot1.png)
+![Pagination](https://raw.githubusercontent.com/Pranjali-nandkar/storybook/master/assets/images/Screenshot1.png)
 
 ### Storybook View
 
-![Storybook](./assets/images/Screenshot2.png)
+![Storybook](https://raw.githubusercontent.com/Pranjali-nandkar/storybook/master/assets/images/Screenshot2.png)
 
 ### Component States
 
-![States](./assets/images/Screenshot3.png)
+![States](https://raw.githubusercontent.com/Pranjali-nandkar/storybook/master/assets/images/Screenshot3.png)

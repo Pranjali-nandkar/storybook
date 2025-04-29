@@ -23,6 +23,10 @@ export default meta;
 type Story = StoryObj<typeof Pagination>;
 
 export const Default: Story = {
+  args: {
+    totalPages: 0
+  },
+
   render: (args) => {
     const [page, setPage] = useState(args.currentPage);
 
@@ -31,5 +35,5 @@ export const Default: Story = {
         <Pagination {...args} currentPage={page} onPageChange={setPage} />
       </div>
     );
-  },
+  }
 };
